@@ -1,48 +1,33 @@
 languageCode = "en-us"
 title = "Prologue"
-baseurl = "http://example.org/"
+baseurl = "http://www.menaru.com/"
 theme = "prologue"
 
 [params]
-  name = "Jane Doe"
-  description = "Hyperspace Engineer"
+  name = "Mena (Meng) Ru"
+  description = "Through the Looking Glass"
   copyright = "Untitled."
 
 [[params.social]]
-  medium = "twitter"
-  icon = "twitter"
-  link = "#"
-
-[[params.social]]
-  medium = "facebook"
-  icon = "facebook"
-  link = "#"
-
-[[params.social]]
-  medium = "github"
-  icon = "github"
-  link = "#"
-
-[[params.social]]
-  medium = "dribbble"
-  icon = "dribbble"
-  link = "#"
+  medium = "instagram"
+  icon = "instagram"
+  link = "instagram.com/menaruphoto"
 
 [[params.social]]
   medium = "email"
   icon = "envelope"
-  link = "#"
+  link = "menaru13@gmail.com"
 
 # Portfolio column one
 
 [[params.portfolio1]]
-  title = "Ipsum Feugiat"
+  title = ""
   alt = ""
   source = "img/pic02.jpg"
   url = "#"
 
 [[params.portfolio1]]
-  title = "Rhoncus Semper"
+  title = ""
   alt = ""
   source = "img/pic03.jpg"
   url = "#"
@@ -50,13 +35,13 @@ theme = "prologue"
 # Portfolio column two
 
 [[params.portfolio2]]
-  title = "Magna Nullam"
+  title = ""
   alt = ""
   source = "img/pic04.jpg"
   url = "#"
 
 [[params.portfolio2]]
-  title = "Natoque Vitae"
+  title = ""
   alt = ""
   source = "img/pic05.jpg"
   url = "#"
@@ -64,13 +49,13 @@ theme = "prologue"
 # Portfolio column 3
 
 [[params.portfolio3]]
-  title = "Dolor Penatibus"
+  title = ""
   alt = ""
   source = "img/pic06.jpg"
   url = "#"
 
 [[params.portfolio3]]
-  title = "Orci Convallis"
+  title = ""
   alt = ""
   source = "img/pic07.jpg"
   url = "#"
