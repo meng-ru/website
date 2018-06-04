@@ -11,7 +11,7 @@ theme = "prologue"
 [[params.social]]
   medium = "instagram"
   icon = "instagram"
-  link = "instagram.com/menaruphoto"
+  link = "http://www.instagram.com/menaruphoto"
 
 [[params.social]]
   medium = "email"
@@ -24,13 +24,13 @@ theme = "prologue"
   title = ""
   alt = ""
   source = "img/pic02.jpg"
-  url = "#"
+  url = "img/pic02.jpg"
 
 [[params.portfolio1]]
   title = ""
   alt = ""
   source = "img/pic03.jpg"
-  url = "#"
+  url = "img/pic03.jpg"
 
 # Portfolio column two
 
@@ -38,13 +38,13 @@ theme = "prologue"
   title = ""
   alt = ""
   source = "img/pic04.jpg"
-  url = "#"
+  url = "img/pic04.jpg"
 
 [[params.portfolio2]]
   title = ""
   alt = ""
   source = "img/pic05.jpg"
-  url = "#"
+  url = "img/pic05.jpg"
 
 # Portfolio column 3
 
@@ -52,10 +52,10 @@ theme = "prologue"
   title = ""
   alt = ""
   source = "img/pic06.jpg"
-  url = "#"
+  url = "img/pic06.jpg"
 
 [[params.portfolio3]]
   title = ""
   alt = ""
   source = "img/pic07.jpg"
-  url = "#"
+  url = "img/pic07.jpg"
