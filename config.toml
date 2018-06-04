@@ -16,7 +16,7 @@ theme = "prologue"
 [[params.social]]
   medium = "email"
   icon = "envelope"
-  link = "menaru13@gmail.com"
+  link = "mailto:menaru13@gmail.com"
 
 # Portfolio column one
 
