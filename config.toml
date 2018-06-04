@@ -1,6 +1,6 @@
 languageCode = "en-us"
-title = "Prologue"
-baseurl = "http://www.menaru.com/"
+title = "Mena Ru Photo Portfolio"
+baseurl = "http://menaru.com/"
 theme = "prologue"
 
 [params]
