@@ -21,13 +21,13 @@ theme = "prologue"
 # Portfolio column one
 
 [[params.portfolio1]]
-  title = ""
+  title = "Miyavi at Irving Plaza, New York"
   alt = ""
   source = "img/pic02.jpg"
   url = "img/pic02.jpg"
 
 [[params.portfolio1]]
-  title = ""
+  title = "Miyavi at Irving Plaza, New York"
   alt = ""
   source = "img/pic03.jpg"
   url = "img/pic03.jpg"
@@ -35,13 +35,13 @@ theme = "prologue"
 # Portfolio column two
 
 [[params.portfolio2]]
-  title = ""
+  title = "Miyavi at Irving Plaza, New York"
   alt = ""
   source = "img/pic04.jpg"
   url = "img/pic04.jpg"
 
 [[params.portfolio2]]
-  title = ""
+  title = "Lazyeyes at Berlin, New York"
   alt = ""
   source = "img/pic05.jpg"
   url = "img/pic05.jpg"
@@ -49,13 +49,13 @@ theme = "prologue"
 # Portfolio column 3
 
 [[params.portfolio3]]
-  title = ""
+  title = "Hinds at SXSW, Austin"
   alt = ""
   source = "img/pic06.jpg"
   url = "img/pic06.jpg"
 
 [[params.portfolio3]]
-  title = ""
+  title = "Hinds at SXSW, Austin"
   alt = ""
   source = "img/pic07.jpg"
   url = "img/pic07.jpg"
